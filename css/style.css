@@ -24,7 +24,7 @@
 
 .custom-shadow {
   border: 0;
-  box-shadow: 3px 3px 8px #00000048;
+  box-shadow: 0 0 20px #00000048;
   transition: box-shadow 0.2s ease-in-out;
 }
 
