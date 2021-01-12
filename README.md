@@ -1,7 +1,7 @@
 # Panda Commerce Bootsrap
 
 <h3>
-    <a href="https://hossainrabbi.github.io/panda-commerce-bootsrap/index.html" targer="_blank"> Live Demo </a>
+    <a href="https://hossainrabbi.github.io/panda-commerce-bootsrap/index.html" targer="_blank"> Live Preview </a>
 </h3>
 
 <br>
