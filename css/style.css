@@ -1,0 +1,91 @@
+/**********************************
+========== BASIC ==========
+**********************************/
+.bg-color {
+  background-color: #feeae9;
+}
+
+.paddingY-100 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.custom-btn {
+  background: linear-gradient(45deg, #ffb826, tomato);
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 5px;
+  color: #ffffff;
+}
+
+.custom-btn:hover {
+  color: #ffffff;
+}
+
+.custom-shadow {
+  border: 0;
+  box-shadow: 3px 3px 8px #00000048;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.custom-shadow:hover {
+  box-shadow: 0 0 2px #00000048;
+}
+
+.card-custom-footer {
+  background-color: transparent;
+  border: 0;
+}
+
+/***********************************
+========== Carousel Area ==========
+***********************************/
+.carousel-area {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.carousel-item-custom {
+  padding: 20px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  display: inline;
+  width: 15px;
+  height: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.carousel-control-prev {
+  left: -15px;
+}
+
+/*************************************
+========== Categories Area ==========
+*************************************/
+.categories .categories-item-1 {
+  background-color: #ffa500;
+}
+
+.categories .categories-item-2 {
+  background-color: #da70d6;
+}
+
+.categories .categories-item-3 {
+  background-color: #0000ff;
+}
+
+.categories img {
+  width: 100px;
+}
+
+/************************************
+========== Subscribe Area ==========
+************************************/
+.subscribe {
+  height: 350px;
+  border-radius: 10px;
+  margin-top: 50px !important;
+}
